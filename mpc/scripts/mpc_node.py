@@ -423,3 +423,5 @@ def main(args=None):
 
     mpc_node.destroy_node()
     rclpy.shutdown()
+
+main()
