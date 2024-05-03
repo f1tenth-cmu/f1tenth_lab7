@@ -120,8 +120,8 @@ It might be helpful to visualize the current selected segment of reference path 
 - **Deliverable 3 (group)**: Submit a link to a video on YouTube showing the RC car tracking waypoints with MPC in AIMS hallway. You will need to run the particle filter the same way you did for lab 5.
 
 ## VIII: Grading Rubric
-- Compilation: **10** Points
-- Correct objectives and constraints: **50** Points
-- Working path tracker: **20** Points
-- Video sim: **10** Points
-- Video car: **10** Points
+- Compilation: **5** Points
+- Correct objectives and constraints: **20** Points
+- Working path tracker: **10** Points
+- Video sim: **5** Points
+- Video car: **5** Points
